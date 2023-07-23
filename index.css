@@ -1,0 +1,43 @@
+header{
+    background-color: rgb(98, 228, 228);
+}
+h1{
+    color: rgb(45, 43, 158);
+   
+}
+.flag{ 
+    margin-left: 75%;
+    margin-top:  0%;
+}
+
+.index-Cities,th,td{ 
+    background-color: rgb(98, 228, 228);
+
+    
+}
+.index-contact{
+margin-left: 50%;
+}
+
+.mail{
+    width: 40px;
+    height: 40px; 
+}
+
+.github{
+    width: 40px;
+    height: 40px; 
+}
+
+.index-video,td {
+    background: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+padding: 20px;
+margin: 4px;
+}
+
+.index-nav,td{
+    background-color: rgb(98, 228, 228);
+    border:2px  rgb(98, 228, 228);
+    background:  rgb(98, 228, 228);
+}
